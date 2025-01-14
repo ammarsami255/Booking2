@@ -8,9 +8,9 @@
     "body-parser": "^1.19.0",
     "debug": "^4.3.1"
   },
-  "main": "src/backend/index.js",  // تحديد نقطة الدخول للمشروع
+  "main": "src/backend/index.js", 
   "scripts": {
-    "start": "node src/backend/index.js"  // تنفيذ الأمر لتشغيل الخادم
+    "start": "node src/backend/index.js"  
   },
   "eslintConfig": {
     "extends": [
